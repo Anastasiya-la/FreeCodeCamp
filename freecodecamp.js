@@ -84,4 +84,13 @@ const quotient = 4.4 / 2.0;
 // find reminder
 const remainder = 11 % 3;
 
+// operator += 
+let a = 3;
+let b = 17;
+let c = 12;
+
+a += 12;
+b += 9;
+c += 7;
+
 
