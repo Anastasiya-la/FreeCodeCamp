@@ -220,5 +220,8 @@ const myArray = [["John", 23], ["dog", 3]];
 myArray.shift();
 myArray.unshift(['Paul', 35]);
 
+// shopping list
+const myList = [['Chocolate Bar', 15], ['Cake', 20], ['Manga', 12], ['Apple', 3], ['Note', 1]];
+
 
 
