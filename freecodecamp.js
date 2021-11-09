@@ -54,4 +54,7 @@ console.log(FCC, fact);
 // two numbers 
 const sum = 10 + 10;
 
+// subtraction 
+const difference = 45 - 33;
+
 
