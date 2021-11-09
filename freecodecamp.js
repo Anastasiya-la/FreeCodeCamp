@@ -160,5 +160,9 @@ firstLetterOfLastName = lastName[0];
 let myStr = "Jello World";
 myStr = 'Hello World'; 
 
+// third letter 
+const lastName = "Lovelace";
+const thirdLetterOfLastName = lastName[2];
+
 
 
