@@ -235,5 +235,10 @@ function functionWithArgs(num1, num2){
 }
 functionWithArgs(20, 30);
 
+// return value from function 
+function timesFive(num){
+    return num * 5;
+  }
+
 
 
