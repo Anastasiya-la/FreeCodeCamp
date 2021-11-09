@@ -81,4 +81,7 @@ const product = 2.0 * 2.5;
 // divid decimal 
 const quotient = 4.4 / 2.0;
 
+// find reminder
+const remainder = 11 % 3;
+
 
