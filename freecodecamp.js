@@ -75,4 +75,7 @@ myVar--;
 const ourDecimal = 5.7;
 const myDecimal = 6.7;
 
+//multiply decimal
+const product = 2.0 * 2.5;
+
 
