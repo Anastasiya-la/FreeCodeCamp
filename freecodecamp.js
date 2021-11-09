@@ -229,4 +229,11 @@ function reusableFunction(){
   }
   reusableFunction();
 
+// function with arguments 
+function functionWithArgs(num1, num2){
+    console.log(num1 + num2);
+}
+functionWithArgs(20, 30);
+
+
 
