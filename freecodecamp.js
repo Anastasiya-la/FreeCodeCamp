@@ -189,5 +189,9 @@ const myArray = [['left', 3],['right', 5]];
 const myArray = [50, 60, 70];
 const myData = myArray[0];
 
+// modify array 
+const myArray = [18, 64, 99];
+myArray[0] = 45;
+
 
 
