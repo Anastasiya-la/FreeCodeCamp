@@ -164,5 +164,8 @@ myStr = 'Hello World';
 const lastName = "Lovelace";
 const thirdLetterOfLastName = lastName[2];
 
+// last charachter 
+const lastName = "Lovelace";
+const lastLetterOfLastName = lastName[lastName.length - 1]; 
 
 
