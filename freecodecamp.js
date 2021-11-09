@@ -16,3 +16,6 @@ a = 7;
 var b;
 b = a;
 
+// initialize variable
+var a = 9;
+
