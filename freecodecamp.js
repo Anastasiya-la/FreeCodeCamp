@@ -179,4 +179,7 @@ const myVerb = "ran";
 const myAdverb = "quickly";
 const wordBlanks = "Wow " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + " stop!";
 
+// array 
+const myArray = ['cherry', 13];
+
 
