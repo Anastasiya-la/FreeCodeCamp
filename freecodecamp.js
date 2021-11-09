@@ -182,4 +182,7 @@ const wordBlanks = "Wow " + myAdjective + " " + myNoun + " " + myVerb + " " + my
 // array 
 const myArray = ['cherry', 13];
 
+//nested array 
+const myArray = [['left', 3],['right', 5]];
+
 
