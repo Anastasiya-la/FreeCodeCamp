@@ -944,6 +944,21 @@ function sum(arr, n) {
         return sum(arr, n - 1) + arr[n - 1];
       }
     }
+
+//Profile Lookup
+function lookUpProfile(name, prop) {
+    // Only change code below this line
+    for(let i = 0; i < contacts.length; i++){
+      if(contacts[i].firstName === name){
+        if(contacts[i].hasOwnProperty(prop)){
+          return contacts[i][prop];
+        } else {
+          return 'No such property';
+        }
+      }
+    }
+       return 'No such contact';
+      }
   
 
 
