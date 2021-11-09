@@ -67,4 +67,8 @@ const quotient = 66 / 33;
 let myVar = 87;
 myVar++;
 
+// decrement
+let myVar = 11;
+myVar--;
+
 
