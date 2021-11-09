@@ -151,5 +151,9 @@ let lastNameLength = 0;
 const lastName = "Lovelace";
 lastNameLength = lastName.length;
 
+// bracket notation in string 
+let firstLetterOfLastName = "";
+const lastName = "Lovelace";
+firstLetterOfLastName = lastName[0]; 
 
 
