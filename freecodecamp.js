@@ -146,5 +146,10 @@ const someAdjective = "fantastic!";
 let myStr = "Learning to code is ";
 myStr += someAdjective;
 
+// length of string 
+let lastNameLength = 0;
+const lastName = "Lovelace";
+lastNameLength = lastName.length;
+
 
 
