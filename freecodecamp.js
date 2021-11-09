@@ -278,5 +278,27 @@ function myOutfit() {
 
 myOutfit();
 
+// undefined value in function
+let sum = 0;
+
+function addThree() {
+  sum = sum + 3;
+}
+
+function addFive(){
+  sum = sum + 5;
+}
+
+addThree();
+addFive();
+
+// assingment with function value
+let processed = 0;
+
+function processArg(num) {
+  return (num + 3) / 5;
+}
+processed = processArg(7);
+
 
 
