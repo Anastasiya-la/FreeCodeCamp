@@ -223,5 +223,10 @@ myArray.unshift(['Paul', 35]);
 // shopping list
 const myList = [['Chocolate Bar', 15], ['Cake', 20], ['Manga', 12], ['Apple', 3], ['Note', 1]];
 
+// create function 
+function reusableFunction(){
+    console.log('Hi World');
+  }
+  reusableFunction();
 
 
