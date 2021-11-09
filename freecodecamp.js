@@ -168,4 +168,8 @@ const thirdLetterOfLastName = lastName[2];
 const lastName = "Lovelace";
 const lastLetterOfLastName = lastName[lastName.length - 1]; 
 
+// lasttotwocharachter 
+const lastName = "Lovelace";
+const secondToLastLetterOfLastName = lastName[lastName.length - 2]; 
+
 
