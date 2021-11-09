@@ -735,4 +735,14 @@ const myDog = {
   };
   myDog.name = 'Happy Coder';
 
+// add new properties
+const myDog = {
+    "name": "Happy Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"]
+  };
+  myDog.bark = 'woof';
+  
+
 
