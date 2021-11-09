@@ -313,5 +313,10 @@ function nextInLine(arr, item) {
   console.log(nextInLine(testArr, 6));
   console.log("After: " + JSON.stringify(testArr));
 
+// boolean values
+function welcomeToBooleans() {
+    return true; 
+  }
+
 
 
