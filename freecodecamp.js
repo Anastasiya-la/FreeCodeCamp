@@ -78,4 +78,7 @@ const myDecimal = 6.7;
 //multiply decimal
 const product = 2.0 * 2.5;
 
+// divid decimal 
+const quotient = 4.4 / 2.0;
+
 
