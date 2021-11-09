@@ -63,4 +63,8 @@ const product = 8 * 10;
 // division
 const quotient = 66 / 33;
 
+// increment
+let myVar = 87;
+myVar++;
+
 
