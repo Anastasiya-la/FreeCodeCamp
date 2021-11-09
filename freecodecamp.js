@@ -156,4 +156,9 @@ let firstLetterOfLastName = "";
 const lastName = "Lovelace";
 firstLetterOfLastName = lastName[0]; 
 
+// change string 
+let myStr = "Jello World";
+myStr = 'Hello World'; 
+
+
 
