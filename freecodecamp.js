@@ -51,4 +51,7 @@ let fact = "is cool!";
 fact = "is awesome!";
 console.log(FCC, fact);
 
+// two numbers 
+const sum = 10 + 10;
+
 
