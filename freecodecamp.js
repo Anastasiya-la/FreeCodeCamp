@@ -185,4 +185,9 @@ const myArray = ['cherry', 13];
 //nested array 
 const myArray = [['left', 3],['right', 5]];
 
+// array with indexes 
+const myArray = [50, 60, 70];
+const myData = myArray[0];
+
+
 
