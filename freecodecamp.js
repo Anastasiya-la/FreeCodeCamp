@@ -57,4 +57,7 @@ const sum = 10 + 10;
 // subtraction 
 const difference = 45 - 33;
 
+// multiplication 
+const product = 8 * 10;
+
 
