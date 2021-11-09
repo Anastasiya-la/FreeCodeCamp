@@ -19,3 +19,7 @@ b = a;
 // initialize variable
 var a = 9;
 
+//string var 
+var myFirstName = 'Anastasiya';
+var myLastName = 'Rabetskaya';
+
