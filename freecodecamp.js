@@ -31,3 +31,8 @@ a = a + 1;
 b = b + 5;
 c = c + " String!";
 
+// case sensitive
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+
