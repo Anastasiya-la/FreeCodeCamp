@@ -60,4 +60,7 @@ const difference = 45 - 33;
 // multiplication 
 const product = 8 * 10;
 
+// division
+const quotient = 66 / 33;
+
 
