@@ -133,4 +133,9 @@ const myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
 // concatenating
 const myStr = "This is the start. " + "This is the end."; 
 
+// concatenating with += 
+let myStr = 'This is the first sentence. ';
+myStr += 'This is the second sentence.';
+
+
 
