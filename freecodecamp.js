@@ -141,5 +141,10 @@ myStr += 'This is the second sentence.';
 const myName = "Anstasiya";
 const myStr = "My name is " + myName + " and I am well!";
 
+// Appending Variables to Strings
+const someAdjective = "fantastic!";
+let myStr = "Learning to code is ";
+myStr += someAdjective;
+
 
 
