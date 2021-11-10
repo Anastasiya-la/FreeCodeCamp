@@ -1312,10 +1312,17 @@ const makeServerRequest = new Promise((resolve, reject) => {
   }
 });
 
+//Handle a Rejected Promise with catch
 makeServerRequest.then(result => {
   console.log(result);
 });
 makeServerRequest.catch(error =>{
   console.log(error);
 });
+
+//Using the Test Method
+let myString = "Hello, World!";
+let myRegex = /Hello/;
+let result = myRegex.test(myString); 
+
 
