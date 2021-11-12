@@ -1454,3 +1454,8 @@ let result = haRegex.test(haStr);
 let timStr = "Timmmmber";
 let timRegex = /tim{4}ber/gi; // Change this line
 let result = timRegex.test(timStr);
+
+//Check for All or None
+let favWord = "favorite";
+let favRegex = /favou?rite/; // Change this line
+let result = favRegex.test(favWord);
