@@ -1465,3 +1465,11 @@ let myString = "Eleanor Roosevelt";
 let myRegex = /(Franklin|Eleanor).*Roosevelt/; // Change this line
 let result = myRegex.test(myString); // Change this line
 // After passing the challenge experiment with myString and see how the grouping works
+
+
+//Use Capture Groups to Search and Replace
+let str = "one two three";
+let fixRegex = /(\w+)\s(\w+)\s(\w+)/; // Change this line
+let replaceText = "$3 $2 $1"; // Change this line
+let result = str.replace(fixRegex, replaceText);
+
