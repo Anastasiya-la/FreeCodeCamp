@@ -1592,3 +1592,11 @@ function myFunc() {
 
 //Use an Array to Store a Collection of Data
 let yourArray = ['LA', 2, true, 93, 'h']; // Change this line
+
+
+//Access an Array's Contents Using Bracket Notation
+let myArray = ["a", "b", "c", "d"];
+// Only change code below this line
+myArray[1] = 'mommy';
+// Only change code above this line
+console.log(myArray);
