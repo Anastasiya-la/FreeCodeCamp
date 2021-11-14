@@ -1589,3 +1589,6 @@ function myFunc() {
     console.log("Still going!");
   }
 }
+
+//Use an Array to Store a Collection of Data
+let yourArray = ['LA', 2, true, 93, 'h']; // Change this line
